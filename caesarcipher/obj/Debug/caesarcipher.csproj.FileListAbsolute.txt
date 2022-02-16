@@ -1,0 +1,6 @@
+C:\Users\donat\RiderProjects\caesarcipher\caesarcipher\bin\Debug\caesarcipher.exe
+C:\Users\donat\RiderProjects\caesarcipher\caesarcipher\bin\Debug\caesarcipher.pdb
+C:\Users\donat\RiderProjects\caesarcipher\caesarcipher\obj\Debug\caesarcipher.csprojAssemblyReference.cache
+C:\Users\donat\RiderProjects\caesarcipher\caesarcipher\obj\Debug\caesarcipher.csproj.CoreCompileInputs.cache
+C:\Users\donat\RiderProjects\caesarcipher\caesarcipher\obj\Debug\caesarcipher.exe
+C:\Users\donat\RiderProjects\caesarcipher\caesarcipher\obj\Debug\caesarcipher.pdb
